@@ -1,0 +1,6 @@
+customtkinter
+requests
+pyinstaller
+psutil
+pywin32
+speedtest-cli

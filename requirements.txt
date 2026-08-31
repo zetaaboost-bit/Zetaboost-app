@@ -1,6 +1,4 @@
-customtkinter
-requests
-pyinstaller
-psutil
-pywin32
-speedtest-cli
+customtkinter>=5.2.0
+psutil>=5.9.0
+pyinstaller>=6.0.0
+pywin32>=306

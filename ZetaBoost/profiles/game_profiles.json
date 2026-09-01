@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fortnite",
+    "display_name": "Fortnite",
+    "process_name": "FortniteClient-Win64-Shipping.exe",
+    "tweak_ids": [
+      "gaming.gamedvr_off",
+      "gaming.game_mode_on",
+      "input.mouse_acceleration_off",
+      "visual.effects_performance"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  },
+  {
+    "id": "valorant",
+    "display_name": "VALORANT",
+    "process_name": "VALORANT-Win64-Shipping.exe",
+    "tweak_ids": [
+      "gaming.gamedvr_off",
+      "input.mouse_acceleration_off"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  },
+  {
+    "id": "cs2",
+    "display_name": "Counter-Strike 2",
+    "process_name": "cs2.exe",
+    "tweak_ids": [
+      "gaming.gamedvr_off",
+      "input.mouse_acceleration_off",
+      "visual.effects_performance"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  },
+  {
+    "id": "minecraft",
+    "display_name": "Minecraft",
+    "process_name": "javaw.exe",
+    "tweak_ids": [
+      "gaming.gamedvr_off"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  },
+  {
+    "id": "roblox",
+    "display_name": "Roblox",
+    "process_name": "RobloxPlayerBeta.exe",
+    "tweak_ids": [
+      "gaming.gamedvr_off",
+      "input.mouse_acceleration_off"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  },
+  {
+    "id": "general_gaming",
+    "display_name": "General Gaming",
+    "process_name": "",
+    "tweak_ids": [
+      "gaming.gamedvr_off",
+      "gaming.game_mode_on",
+      "input.mouse_acceleration_off"
+    ],
+    "priority": "HIGH",
+    "disable_gamebar": true,
+    "clear_shader_cache": false,
+    "custom": false
+  }
+]

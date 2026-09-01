@@ -1,0 +1,12 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "start_with_windows": false,
+  "minimize_to_tray": true,
+  "notifications": true,
+  "auto_backup": true,
+  "auto_restore_point": false,
+  "live_boost": false,
+  "logging_level": "INFO",
+  "monitor_interval_ms": 1500
+}

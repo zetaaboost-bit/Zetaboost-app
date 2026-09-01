@@ -1,0 +1,35 @@
+==========================================================
+  ZetaBoost - INSTRUCCIONES RAPIDAS (en bandeja de plata)
+==========================================================
+
+PASO 1) Instala Python (solo una vez)
+   - Entra en: https://www.python.org/downloads/
+   - Descarga Python 3.11 o superior.
+   - Al instalar, MARCA LA CASILLA "Add Python to PATH".
+     (Es la casilla de abajo en la primera pantalla del instalador)
+
+PASO 2) Crea el .exe (doble clic)
+   - Haz doble clic en:  CONSTRUIR_EXE.bat
+   - El script hace TODO solo: instala dependencias y compila.
+   - Tarda entre 2 y 5 minutos.
+   - Al terminar se abre la carpeta "dist" con tu ZetaBoost.exe
+
+PASO 3) Ejecuta ZetaBoost
+   - Clic derecho sobre dist\ZetaBoost.exe
+   - "Ejecutar como administrador"
+     (necesario para servicios, registro HKLM, DISM/SFC, etc.)
+
+----------------------------------------------------------
+OPCIONAL: Probar sin crear el .exe
+   - Doble clic en:  PROBAR_SIN_EXE.bat
+   - Abre la app directamente con Python (mas rapido para probar).
+
+----------------------------------------------------------
+NOTAS:
+ - Windows Defender / SmartScreen puede avisar la primera vez
+   porque el .exe no esta firmado digitalmente. Es normal:
+   pulsa "Mas informacion" > "Ejecutar de todas formas".
+ - Para probar el modo PRO: Settings > License > Activate as PRO
+   y reinicia la app (es una activacion local de prueba).
+ - Si algo falla, copia el texto de error y pasaselo al agente.
+==========================================================
